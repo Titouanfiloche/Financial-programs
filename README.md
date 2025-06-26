@@ -1,2 +1,2 @@
-# Financial-programs
-Hi, there are all my codes programs about a financial activity. 
+# Volatility of session
+Hi, here you will be able to find a program to calculate volatily of an asset, during different session. 
